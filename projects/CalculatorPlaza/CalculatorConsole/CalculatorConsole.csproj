@@ -12,4 +12,10 @@
     <ProjectReference Include="..\ConceptArchitect.CalculatorAPI\ConceptArchitect.CalculatorAPI.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="LNW.Calculator.OperatorPlugins">
+      <HintPath>bin\Debug\net8.0\LNW.Calculator.OperatorPlugins.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

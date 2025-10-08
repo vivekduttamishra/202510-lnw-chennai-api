@@ -1,0 +1,12 @@
+D:\works\corporate\202510-lnw-chennai-api\projects\UnitTest\ConceptArchitect.Banking\bin\Debug\net8.0\ConceptArchitect.Banking.deps.json
+D:\works\corporate\202510-lnw-chennai-api\projects\UnitTest\ConceptArchitect.Banking\bin\Debug\net8.0\ConceptArchitect.Banking.dll
+D:\works\corporate\202510-lnw-chennai-api\projects\UnitTest\ConceptArchitect.Banking\bin\Debug\net8.0\ConceptArchitect.Banking.pdb
+D:\works\corporate\202510-lnw-chennai-api\projects\UnitTest\ConceptArchitect.Banking\obj\Debug\net8.0\ConceptArchitect.Banking.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\corporate\202510-lnw-chennai-api\projects\UnitTest\ConceptArchitect.Banking\obj\Debug\net8.0\ConceptArchitect.Banking.AssemblyInfoInputs.cache
+D:\works\corporate\202510-lnw-chennai-api\projects\UnitTest\ConceptArchitect.Banking\obj\Debug\net8.0\ConceptArchitect.Banking.AssemblyInfo.cs
+D:\works\corporate\202510-lnw-chennai-api\projects\UnitTest\ConceptArchitect.Banking\obj\Debug\net8.0\ConceptArchitect.Banking.csproj.CoreCompileInputs.cache
+D:\works\corporate\202510-lnw-chennai-api\projects\UnitTest\ConceptArchitect.Banking\obj\Debug\net8.0\ConceptArchitect.Banking.sourcelink.json
+D:\works\corporate\202510-lnw-chennai-api\projects\UnitTest\ConceptArchitect.Banking\obj\Debug\net8.0\ConceptArchitect.Banking.dll
+D:\works\corporate\202510-lnw-chennai-api\projects\UnitTest\ConceptArchitect.Banking\obj\Debug\net8.0\refint\ConceptArchitect.Banking.dll
+D:\works\corporate\202510-lnw-chennai-api\projects\UnitTest\ConceptArchitect.Banking\obj\Debug\net8.0\ConceptArchitect.Banking.pdb
+D:\works\corporate\202510-lnw-chennai-api\projects\UnitTest\ConceptArchitect.Banking\obj\Debug\net8.0\ref\ConceptArchitect.Banking.dll

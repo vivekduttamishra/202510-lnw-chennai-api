@@ -9,11 +9,19 @@ namespace ConceptArchitect.CalculatorAPI
         public ResultFormatter ResultFormatter { get; set; }
         Dictionary<string, Operator> operators=new Dictionary<string, Operator>() ;
 
+        public Action<string> ResultPresenter { get; set; }
+        public Action<string> ErrorPresenter { get; set; }
+
+
         public Calculator()
         {
             AddOperator((x, y) => x + y, "plus");
             AddOperator((x, y) => x - y, "minus");
             ResultFormatter = (op1, name, op2, result) => $"{op1} {name} {op2} = {result}";
+
+            ResultPresenter = Console.WriteLine;
+            ErrorPresenter = Console.WriteLine;
+        
         }
 
 
@@ -34,7 +42,8 @@ namespace ConceptArchitect.CalculatorAPI
 
             else
             {
-                Console.WriteLine($"Invalid Operator:'{operatorName}'");
+                //Console.WriteLine($"Invalid Operator:'{operatorName}'");
+                ErrorPresenter($"Invalid Operator:'{operatorName}");
                 return;
             }
 
@@ -44,8 +53,9 @@ namespace ConceptArchitect.CalculatorAPI
             var output = ResultFormatter(op1, operatorName, op2, result);
 
 
-
-            Console.WriteLine(output);
+            // Hard coded and non testable
+            //Console.WriteLine(output);
+            ResultPresenter(output);
         }
     }
 }

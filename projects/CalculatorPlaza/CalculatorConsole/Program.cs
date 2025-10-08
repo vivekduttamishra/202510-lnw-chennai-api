@@ -1,5 +1,6 @@
 ﻿using ConceptArchitect.Calculator.Extension;
 using ConceptArchitect.CalculatorAPI;
+using LNW.Calculator.OperatorPlugins;
 
 namespace CalculatorConsole
 {
@@ -7,13 +8,20 @@ namespace CalculatorConsole
     {
         static void Main(string[] args)
         {
-            var calc = new Calculator();
+            var calc = new Calculator()
+            {
+                ResultPresenter = ColoredConsole.ForColor(ConsoleColor.Yellow),
+                ErrorPresenter = ColoredConsole.ForColor(ConsoleColor.Red)
+            };
             
             TestCalculator(calc, "Test Default Calculator");
 
             calc.AddOperator(Operators.Multiply, "multiply");
             calc.AddOperator(Operators.Divide, "divide");
             calc.AddOperator(Operators.Mod, "mod");
+
+            calc.AddOperator(LNWOperators.Permutation, "p");
+            calc.AddOperator(LNWOperators.Combination, "c");
 
             calc.ResultFormatter = ResultFormatters.MethodStyle;
             TestCalculator(calc, "Extended Calculator");
@@ -28,6 +36,7 @@ namespace CalculatorConsole
             calc.Calculate(20, "multiply", 30);
             calc.Calculate(20, "foo", 30);
             calc.Calculate(20, "mod", 3);
+            calc.Calculate(5, "p", 3);
             Console.WriteLine("-------------------");
             Console.WriteLine("\n");
         }

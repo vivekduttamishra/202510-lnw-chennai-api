@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\UnitTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90E19EF0-DDB3-4A1D-927D-FF337EA3FA9B}|BankAccountTests\\BankAccountTests.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\unittest\\bankaccounttests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90E19EF0-DDB3-4A1D-927D-FF337EA3FA9B}|BankAccountTests\\BankAccountTests.csproj|solutionrelative:bankaccounttests\\bankaccounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7DDB16-3A8B-4368-8467-E616566D7B18}|ConceptArchitect.Banking\\ConceptArchitect.Banking.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\unittest\\conceptarchitect.banking\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7DDB16-3A8B-4368-8467-E616566D7B18}|ConceptArchitect.Banking\\ConceptArchitect.Banking.csproj|solutionrelative:conceptarchitect.banking\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D7DDB16-3A8B-4368-8467-E616566D7B18}|ConceptArchitect.Banking\\ConceptArchitect.Banking.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\unittest\\conceptarchitect.banking\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D7DDB16-3A8B-4368-8467-E616566D7B18}|ConceptArchitect.Banking\\ConceptArchitect.Banking.csproj|solutionrelative:conceptarchitect.banking\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34791300-D21A-4F3F-9A96-527D3287E4EF}|BankAccountConsoleTest\\BankAccountConsoleTest.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\unittest\\bankaccountconsoletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34791300-D21A-4F3F-9A96-527D3287E4EF}|BankAccountConsoleTest\\BankAccountConsoleTest.csproj|solutionrelative:bankaccountconsoletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 16,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccountTests.cs",
+              "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\UnitTest\\BankAccountTests\\BankAccountTests.cs",
+              "RelativeDocumentMoniker": "BankAccountTests\\BankAccountTests.cs",
+              "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\UnitTest\\BankAccountTests\\BankAccountTests.cs*",
+              "RelativeToolTip": "BankAccountTests\\BankAccountTests.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAA2wDAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:57:51.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\UnitTest\\ConceptArchitect.Banking\\Exceptions.cs",
+              "RelativeDocumentMoniker": "ConceptArchitect.Banking\\Exceptions.cs",
+              "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\UnitTest\\ConceptArchitect.Banking\\Exceptions.cs",
+              "RelativeToolTip": "ConceptArchitect.Banking\\Exceptions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAzwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T10:27:20.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\UnitTest\\BankAccountConsoleTest\\Program.cs",
+              "RelativeDocumentMoniker": "BankAccountConsoleTest\\Program.cs",
+              "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\UnitTest\\BankAccountConsoleTest\\Program.cs",
+              "RelativeToolTip": "BankAccountConsoleTest\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:53:06.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\UnitTest\\ConceptArchitect.Banking\\BankAccount.cs",
+              "RelativeDocumentMoniker": "ConceptArchitect.Banking\\BankAccount.cs",
+              "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\UnitTest\\ConceptArchitect.Banking\\BankAccount.cs",
+              "RelativeToolTip": "ConceptArchitect.Banking\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:47:25.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

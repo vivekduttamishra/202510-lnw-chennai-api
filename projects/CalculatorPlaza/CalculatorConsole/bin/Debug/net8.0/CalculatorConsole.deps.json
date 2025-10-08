@@ -9,7 +9,8 @@
       "CalculatorConsole/1.0.0": {
         "dependencies": {
           "ConceptArchitect.Calculator.Extension": "1.0.0",
-          "ConceptArchitect.CalculatorAPI": "1.0.0"
+          "ConceptArchitect.CalculatorAPI": "1.0.0",
+          "LNW.Calculator.OperatorPlugins": "1.0.0.0"
         },
         "runtime": {
           "CalculatorConsole.dll": {}
@@ -33,6 +34,14 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "LNW.Calculator.OperatorPlugins/1.0.0.0": {
+        "runtime": {
+          "LNW.Calculator.OperatorPlugins.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -49,6 +58,11 @@
     },
     "ConceptArchitect.CalculatorAPI/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LNW.Calculator.OperatorPlugins/1.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

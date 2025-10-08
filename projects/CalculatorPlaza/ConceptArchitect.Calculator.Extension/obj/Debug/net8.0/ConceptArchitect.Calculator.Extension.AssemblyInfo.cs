@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConceptArchitect.Calculator.Extension")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38f2021d1cf72d10df99dc11879bffc7a39d33e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be88843a51bd67b65a34f6566d86591655359c26")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConceptArchitect.Calculator.Extension")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConceptArchitect.Calculator.Extension")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
