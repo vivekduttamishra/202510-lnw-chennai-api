@@ -5,7 +5,10 @@ namespace CalculatorV1
 
     public class Calculator
     {
-        public OutputFormat OutputFormat { get; set; }= OutputFormat.Infix;
+        //public OutputFormat OutputFormat { get; set; }= OutputFormat.Infix;
+
+        public ResultFormatter ResultFormatter { get; set; } = ResultFormatters.Infix;
+
         Dictionary<string, Operator> operators = new Dictionary<string, Operator>
         {
             { "plus", new Operator(Operators.Plus) },
@@ -34,18 +37,20 @@ namespace CalculatorV1
                 return;
             }
 
-            string output="";
-            switch (OutputFormat)
-            {
-                case OutputFormat.Infix:
-                    output = $"{op1} {operatorName} {op2} = {result}";
-                    break;
-                case OutputFormat.MethodStyle:
-                    output = $"{operatorName}({op1},{op2})={result}";
-                    break;
+            //string output="";
+            //switch (OutputFormat)
+            //{
+            //    case OutputFormat.Infix:
+            //        output = $"{op1} {operatorName} {op2} = {result}";
+            //        break;
+            //    case OutputFormat.MethodStyle:
+            //        output = $"{operatorName}({op1},{op2})={result}";
+            //        break;
 
-            }
-                
+            //}
+
+
+            var output = ResultFormatter(op1, operatorName, op2, result);   
                 
 
 

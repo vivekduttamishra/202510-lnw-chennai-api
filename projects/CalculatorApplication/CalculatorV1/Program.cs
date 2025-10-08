@@ -11,7 +11,11 @@
 
             calc.AddOperator(Operators.Multiply, "multiply");
 
-            calc.OutputFormat = OutputFormat.MethodStyle;
+            //calc.OutputFormat = OutputFormat.MethodStyle;
+            
+            calc.ResultFormatter = ResultFormatters.MethodStyle;
+
+
             TestCalculator(calc, "Method Style Output Format");
 
         }

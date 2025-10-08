@@ -1,0 +1,12 @@
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.CalculatorAPI\bin\Debug\net8.0\ConceptArchitect.CalculatorAPI.deps.json
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.CalculatorAPI\bin\Debug\net8.0\ConceptArchitect.CalculatorAPI.dll
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.CalculatorAPI\bin\Debug\net8.0\ConceptArchitect.CalculatorAPI.pdb
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.CalculatorAPI\obj\Debug\net8.0\ConceptArchitect.CalculatorAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.CalculatorAPI\obj\Debug\net8.0\ConceptArchitect.CalculatorAPI.AssemblyInfoInputs.cache
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.CalculatorAPI\obj\Debug\net8.0\ConceptArchitect.CalculatorAPI.AssemblyInfo.cs
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.CalculatorAPI\obj\Debug\net8.0\ConceptArchitect.CalculatorAPI.csproj.CoreCompileInputs.cache
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.CalculatorAPI\obj\Debug\net8.0\ConceptArchitect.CalculatorAPI.sourcelink.json
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.CalculatorAPI\obj\Debug\net8.0\ConceptArchitect.CalculatorAPI.dll
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.CalculatorAPI\obj\Debug\net8.0\refint\ConceptArchitect.CalculatorAPI.dll
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.CalculatorAPI\obj\Debug\net8.0\ConceptArchitect.CalculatorAPI.pdb
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.CalculatorAPI\obj\Debug\net8.0\ref\ConceptArchitect.CalculatorAPI.dll

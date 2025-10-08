@@ -1,0 +1,7 @@
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcWinOs\bin\Debug\CalcWinOs.exe.config
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcWinOs\bin\Debug\CalcWinOs.exe
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcWinOs\bin\Debug\CalcWinOs.pdb
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcWinOs\obj\Debug\CalcWinOs.csproj.AssemblyReference.cache
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcWinOs\obj\Debug\CalcWinOs.csproj.CoreCompileInputs.cache
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcWinOs\obj\Debug\CalcWinOs.exe
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcWinOs\obj\Debug\CalcWinOs.pdb

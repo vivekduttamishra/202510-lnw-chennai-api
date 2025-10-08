@@ -1,0 +1,15 @@
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcCore\bin\Debug\net8.0\CalcCore.exe
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcCore\bin\Debug\net8.0\CalcCore.deps.json
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcCore\bin\Debug\net8.0\CalcCore.runtimeconfig.json
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcCore\bin\Debug\net8.0\CalcCore.dll
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcCore\bin\Debug\net8.0\CalcCore.pdb
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcCore\obj\Debug\net8.0\CalcCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcCore\obj\Debug\net8.0\CalcCore.AssemblyInfoInputs.cache
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcCore\obj\Debug\net8.0\CalcCore.AssemblyInfo.cs
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcCore\obj\Debug\net8.0\CalcCore.csproj.CoreCompileInputs.cache
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcCore\obj\Debug\net8.0\CalcCore.sourcelink.json
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcCore\obj\Debug\net8.0\CalcCore.dll
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcCore\obj\Debug\net8.0\refint\CalcCore.dll
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcCore\obj\Debug\net8.0\CalcCore.pdb
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcCore\obj\Debug\net8.0\CalcCore.genruntimeconfig.cache
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalcCore\obj\Debug\net8.0\ref\CalcCore.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConceptArchitect.CalculatorAPI/1.0.0": {
+        "runtime": {
+          "ConceptArchitect.CalculatorAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConceptArchitect.CalculatorAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

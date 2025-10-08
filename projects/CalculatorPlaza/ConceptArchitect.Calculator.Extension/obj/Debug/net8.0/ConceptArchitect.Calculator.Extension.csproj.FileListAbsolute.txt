@@ -1,0 +1,16 @@
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.Calculator.Extension\bin\Debug\net8.0\ConceptArchitect.Calculator.Extension.deps.json
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.Calculator.Extension\bin\Debug\net8.0\ConceptArchitect.Calculator.Extension.dll
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.Calculator.Extension\bin\Debug\net8.0\ConceptArchitect.Calculator.Extension.pdb
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.Calculator.Extension\bin\Debug\net8.0\ConceptArchitect.CalculatorAPI.dll
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.Calculator.Extension\bin\Debug\net8.0\ConceptArchitect.CalculatorAPI.pdb
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.Calculator.Extension\obj\Debug\net8.0\ConceptArchitect.Calculator.Extension.csproj.AssemblyReference.cache
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.Calculator.Extension\obj\Debug\net8.0\ConceptArchitect.Calculator.Extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.Calculator.Extension\obj\Debug\net8.0\ConceptArchitect.Calculator.Extension.AssemblyInfoInputs.cache
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.Calculator.Extension\obj\Debug\net8.0\ConceptArchitect.Calculator.Extension.AssemblyInfo.cs
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.Calculator.Extension\obj\Debug\net8.0\ConceptArchitect.Calculator.Extension.csproj.CoreCompileInputs.cache
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.Calculator.Extension\obj\Debug\net8.0\ConceptArchitect.Calculator.Extension.sourcelink.json
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.Calculator.Extension\obj\Debug\net8.0\ConceptA.7F80EFE3.Up2Date
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.Calculator.Extension\obj\Debug\net8.0\ConceptArchitect.Calculator.Extension.dll
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.Calculator.Extension\obj\Debug\net8.0\refint\ConceptArchitect.Calculator.Extension.dll
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.Calculator.Extension\obj\Debug\net8.0\ConceptArchitect.Calculator.Extension.pdb
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorPlaza\ConceptArchitect.Calculator.Extension\obj\Debug\net8.0\ref\ConceptArchitect.Calculator.Extension.dll
