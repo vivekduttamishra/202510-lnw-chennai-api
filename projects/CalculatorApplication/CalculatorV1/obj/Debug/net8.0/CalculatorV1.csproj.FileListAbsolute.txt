@@ -1,0 +1,15 @@
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalculatorV1\bin\Debug\net8.0\CalculatorV1.dll
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalculatorV1\obj\Debug\net8.0\CalculatorV1.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalculatorV1\obj\Debug\net8.0\CalculatorV1.AssemblyInfoInputs.cache
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalculatorV1\obj\Debug\net8.0\CalculatorV1.AssemblyInfo.cs
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalculatorV1\obj\Debug\net8.0\CalculatorV1.csproj.CoreCompileInputs.cache
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalculatorV1\obj\Debug\net8.0\CalculatorV1.sourcelink.json
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalculatorV1\bin\Debug\net8.0\CalculatorV1.exe
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalculatorV1\bin\Debug\net8.0\CalculatorV1.deps.json
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalculatorV1\bin\Debug\net8.0\CalculatorV1.runtimeconfig.json
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalculatorV1\obj\Debug\net8.0\CalculatorV1.dll
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalculatorV1\obj\Debug\net8.0\refint\CalculatorV1.dll
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalculatorV1\obj\Debug\net8.0\CalculatorV1.pdb
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalculatorV1\obj\Debug\net8.0\CalculatorV1.genruntimeconfig.cache
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalculatorV1\bin\Debug\net8.0\CalculatorV1.pdb
+D:\works\corporate\202510-lnw-chennai-api\projects\CalculatorApplication\CalculatorV1\obj\Debug\net8.0\ref\CalculatorV1.dll

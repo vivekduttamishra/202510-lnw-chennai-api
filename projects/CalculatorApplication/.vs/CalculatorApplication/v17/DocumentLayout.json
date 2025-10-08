@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEDF517-DA30-4BFB-9471-FA95B93F94DE}|CalculatorV1\\CalculatorV1.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorapplication\\calculatorv1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEDF517-DA30-4BFB-9471-FA95B93F94DE}|CalculatorV1\\CalculatorV1.csproj|solutionrelative:calculatorv1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEDF517-DA30-4BFB-9471-FA95B93F94DE}|CalculatorV1\\CalculatorV1.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorapplication\\calculatorv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEDF517-DA30-4BFB-9471-FA95B93F94DE}|CalculatorV1\\CalculatorV1.csproj|solutionrelative:calculatorv1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEDF517-DA30-4BFB-9471-FA95B93F94DE}|CalculatorV1\\CalculatorV1.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorapplication\\calculatorv1\\calculatorv4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEDF517-DA30-4BFB-9471-FA95B93F94DE}|CalculatorV1\\CalculatorV1.csproj|solutionrelative:calculatorv1\\calculatorv4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEDF517-DA30-4BFB-9471-FA95B93F94DE}|CalculatorV1\\CalculatorV1.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorapplication\\calculatorv1\\outputformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEDF517-DA30-4BFB-9471-FA95B93F94DE}|CalculatorV1\\CalculatorV1.csproj|solutionrelative:calculatorv1\\outputformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEDF517-DA30-4BFB-9471-FA95B93F94DE}|CalculatorV1\\CalculatorV1.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorapplication\\calculatorv1\\opertors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEDF517-DA30-4BFB-9471-FA95B93F94DE}|CalculatorV1\\CalculatorV1.csproj|solutionrelative:calculatorv1\\opertors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEDF517-DA30-4BFB-9471-FA95B93F94DE}|CalculatorV1\\CalculatorV1.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorapplication\\calculatorv1\\calculatorv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEDF517-DA30-4BFB-9471-FA95B93F94DE}|CalculatorV1\\CalculatorV1.csproj|solutionrelative:calculatorv1\\calculatorv3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEDF517-DA30-4BFB-9471-FA95B93F94DE}|CalculatorV1\\CalculatorV1.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorapplication\\calculatorv1\\calculatorv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEDF517-DA30-4BFB-9471-FA95B93F94DE}|CalculatorV1\\CalculatorV1.csproj|solutionrelative:calculatorv1\\calculatorv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FEDF517-DA30-4BFB-9471-FA95B93F94DE}|CalculatorV1\\CalculatorV1.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorapplication\\calculatorv1\\calculatorv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FEDF517-DA30-4BFB-9471-FA95B93F94DE}|CalculatorV1\\CalculatorV1.csproj|solutionrelative:calculatorv1\\calculatorv1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 16,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Opertors.cs",
+              "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorApplication\\CalculatorV1\\Opertors.cs",
+              "RelativeDocumentMoniker": "CalculatorV1\\Opertors.cs",
+              "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorApplication\\CalculatorV1\\Opertors.cs",
+              "RelativeToolTip": "CalculatorV1\\Opertors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAzwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:34:23.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorV4.cs",
+              "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorApplication\\CalculatorV1\\CalculatorV4.cs",
+              "RelativeDocumentMoniker": "CalculatorV1\\CalculatorV4.cs",
+              "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorApplication\\CalculatorV1\\CalculatorV4.cs",
+              "RelativeToolTip": "CalculatorV1\\CalculatorV4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:33:01.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OutputFormat.cs",
+              "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorApplication\\CalculatorV1\\OutputFormat.cs",
+              "RelativeDocumentMoniker": "CalculatorV1\\OutputFormat.cs",
+              "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorApplication\\CalculatorV1\\OutputFormat.cs",
+              "RelativeToolTip": "CalculatorV1\\OutputFormat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T12:32:03.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculatorV3.cs",
+              "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorApplication\\CalculatorV1\\CalculatorV3.cs",
+              "RelativeDocumentMoniker": "CalculatorV1\\CalculatorV3.cs",
+              "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorApplication\\CalculatorV1\\CalculatorV3.cs",
+              "RelativeToolTip": "CalculatorV1\\CalculatorV3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:41:52.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculatorV2.cs",
+              "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorApplication\\CalculatorV1\\CalculatorV2.cs",
+              "RelativeDocumentMoniker": "CalculatorV1\\CalculatorV2.cs",
+              "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorApplication\\CalculatorV1\\CalculatorV2.cs",
+              "RelativeToolTip": "CalculatorV1\\CalculatorV2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T11:16:35.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculatorV1.cs",
+              "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorApplication\\CalculatorV1\\CalculatorV1.cs",
+              "RelativeDocumentMoniker": "CalculatorV1\\CalculatorV1.cs",
+              "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorApplication\\CalculatorV1\\CalculatorV1.cs",
+              "RelativeToolTip": "CalculatorV1\\CalculatorV1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T10:33:07.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorApplication\\CalculatorV1\\Calculator.cs",
+              "RelativeDocumentMoniker": "CalculatorV1\\Calculator.cs",
+              "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorApplication\\CalculatorV1\\Calculator.cs",
+              "RelativeToolTip": "CalculatorV1\\Calculator.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:29:33.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorApplication\\CalculatorV1\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorV1\\Program.cs",
+              "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorApplication\\CalculatorV1\\Program.cs",
+              "RelativeToolTip": "CalculatorV1\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAABAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T08:29:07.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
