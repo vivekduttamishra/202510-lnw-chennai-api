@@ -27,7 +27,7 @@ namespace TestCalculator
         {
             var calculator = new CalculatorBuilder()
                                     .Defaults()
-                                    .AddOperation(Operators.Mod,"mod")
+                                    .AddOperation(AdvancedOperators.Mod,"mod")
                                     .Build();
 
 
@@ -40,7 +40,7 @@ namespace TestCalculator
         {
             var calculator = new CalculatorBuilder()
                                 .Defaults()
-                                .AddOperatorClass<Operators>()
+                                .AddOperatorClass<AdvancedOperators>()
                                 .Build();
 
             Assert.Equal(7, calculator.Operators.ToArray().Length);

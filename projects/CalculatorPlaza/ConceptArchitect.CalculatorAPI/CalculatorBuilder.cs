@@ -18,7 +18,7 @@ namespace ConceptArchitect.CalculatorAPI
 
         public CalculatorBuilder Defaults()
         {
-            
+            AddExecutingAssembly();
             return this;
         }
 
@@ -35,6 +35,10 @@ namespace ConceptArchitect.CalculatorAPI
         
         public CalculatorBuilder AddOperatorClass(Type type)        
         {
+            var attrb = type.GetCustomAttribute<OperatorAttribute>();
+            if (attrb != null && attrb.Ignore)
+                return this;//ignore and return
+
             foreach (var method in type.GetMethods(BindingFlags.Public|BindingFlags.Static))
             {
                 var operatorInfo = GetOperatorInfo(method);
@@ -104,9 +108,14 @@ namespace ConceptArchitect.CalculatorAPI
 
         private OperatorInfo GetOperatorInfo(MethodInfo method)
         {
+            var attr = OperatorAttribute.For(method);
+            if (attr.Ignore)
+                return null;
+            
             if (method == null)
                 return null;
 
+            
             
 
             if(method.ReturnType!=typeof(int))
@@ -123,13 +132,14 @@ namespace ConceptArchitect.CalculatorAPI
             return new OperatorInfo()
             {
                 Operator = (Operator)Operator.CreateDelegate(typeof(Operator), method),
-                Name= method.Name,
-                Help=$"About {method.Name}"
+                Name= attr.Name,
+                Help=attr.HelpText,
+                Aliases= attr.Aliases.Split(',')
             };
 
 
         }
-
+        
         public Calculator Build()
         {
              return calculator;

@@ -16,9 +16,9 @@ namespace CalculatorConsole
             
             TestCalculator(calc, "Test Default Calculator");
 
-            calc.AddOperator(Operators.Multiply, "multiply");
-            calc.AddOperator(Operators.Divide, "divide");
-            calc.AddOperator(Operators.Mod, "mod");
+            calc.AddOperator(AdvancedOperators.Multiply, "multiply");
+            calc.AddOperator(AdvancedOperators.Divide, "divide");
+            calc.AddOperator(AdvancedOperators.Mod, "mod");
 
             calc.AddOperator(LNWOperators.Permutation, "p");
             calc.AddOperator(LNWOperators.Combination, "c");

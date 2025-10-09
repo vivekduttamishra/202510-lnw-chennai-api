@@ -3,28 +3,48 @@
   "WorkspaceRootPath": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F4609C7-9977-4C74-8A01-C637DCEDE999}|CalculatorDesktop\\CalculatorDesktop.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorplaza\\calculatordesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F4609C7-9977-4C74-8A01-C637DCEDE999}|CalculatorDesktop\\CalculatorDesktop.csproj|solutionrelative:calculatordesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{974B7EC8-97A4-49CD-ADD7-B93C7E8B0715}|ConceptArchitect.CalculatorAPI\\ConceptArchitect.CalculatorAPI.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorplaza\\conceptarchitect.calculatorapi\\calculatorbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{974B7EC8-97A4-49CD-ADD7-B93C7E8B0715}|ConceptArchitect.CalculatorAPI\\ConceptArchitect.CalculatorAPI.csproj|solutionrelative:conceptarchitect.calculatorapi\\calculatorbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974B7EC8-97A4-49CD-ADD7-B93C7E8B0715}|ConceptArchitect.CalculatorAPI\\ConceptArchitect.CalculatorAPI.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorplaza\\conceptarchitect.calculatorapi\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974B7EC8-97A4-49CD-ADD7-B93C7E8B0715}|ConceptArchitect.CalculatorAPI\\ConceptArchitect.CalculatorAPI.csproj|solutionrelative:conceptarchitect.calculatorapi\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4609C7-9977-4C74-8A01-C637DCEDE999}|CalculatorDesktop\\CalculatorDesktop.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorplaza\\calculatordesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F4609C7-9977-4C74-8A01-C637DCEDE999}|CalculatorDesktop\\CalculatorDesktop.csproj|solutionrelative:calculatordesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A13AF78C-363C-4123-83FC-79E3CE9F4569}|TestCalculator\\TestCalculator.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorplaza\\testcalculator\\calculatorbuildertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A13AF78C-363C-4123-83FC-79E3CE9F4569}|TestCalculator\\TestCalculator.csproj|solutionrelative:testcalculator\\calculatorbuildertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F4609C7-9977-4C74-8A01-C637DCEDE999}|CalculatorDesktop\\CalculatorDesktop.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorplaza\\calculatordesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A13AF78C-363C-4123-83FC-79E3CE9F4569}|TestCalculator\\TestCalculator.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorplaza\\testcalculator\\operatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13AF78C-363C-4123-83FC-79E3CE9F4569}|TestCalculator\\TestCalculator.csproj|solutionrelative:testcalculator\\operatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A13AF78C-363C-4123-83FC-79E3CE9F4569}|TestCalculator\\TestCalculator.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorplaza\\testcalculator\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A13AF78C-363C-4123-83FC-79E3CE9F4569}|TestCalculator\\TestCalculator.csproj|solutionrelative:testcalculator\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D43D18C-98E8-4356-95C4-7067A3FAE6EA}|ConceptArchitect.Calculator.Extension\\ConceptArchitect.Calculator.Extension.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorplaza\\conceptarchitect.calculator.extension\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D43D18C-98E8-4356-95C4-7067A3FAE6EA}|ConceptArchitect.Calculator.Extension\\ConceptArchitect.Calculator.Extension.csproj|solutionrelative:conceptarchitect.calculator.extension\\operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46377BC-46BE-48E2-8CEA-0320EA7472F7}|CalculatorConsole\\CalculatorConsole.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorplaza\\calculatorconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46377BC-46BE-48E2-8CEA-0320EA7472F7}|CalculatorConsole\\CalculatorConsole.csproj|solutionrelative:calculatorconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974B7EC8-97A4-49CD-ADD7-B93C7E8B0715}|ConceptArchitect.CalculatorAPI\\ConceptArchitect.CalculatorAPI.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorplaza\\conceptarchitect.calculatorapi\\operatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974B7EC8-97A4-49CD-ADD7-B93C7E8B0715}|ConceptArchitect.CalculatorAPI\\ConceptArchitect.CalculatorAPI.csproj|solutionrelative:conceptarchitect.calculatorapi\\operatorattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F4609C7-9977-4C74-8A01-C637DCEDE999}|CalculatorDesktop\\CalculatorDesktop.csproj|D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\calculatordesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0F4609C7-9977-4C74-8A01-C637DCEDE999}|CalculatorDesktop\\CalculatorDesktop.csproj|solutionrelative:calculatordesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A13AF78C-363C-4123-83FC-79E3CE9F4569}|TestCalculator\\TestCalculator.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorplaza\\testcalculator\\testoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A13AF78C-363C-4123-83FC-79E3CE9F4569}|TestCalculator\\TestCalculator.csproj|solutionrelative:testcalculator\\testoperators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974B7EC8-97A4-49CD-ADD7-B93C7E8B0715}|ConceptArchitect.CalculatorAPI\\ConceptArchitect.CalculatorAPI.csproj|d:\\works\\corporate\\202510-lnw-chennai-api\\projects\\calculatorplaza\\conceptarchitect.calculatorapi\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974B7EC8-97A4-49CD-ADD7-B93C7E8B0715}|ConceptArchitect.CalculatorAPI\\ConceptArchitect.CalculatorAPI.csproj|solutionrelative:conceptarchitect.calculatorapi\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,36 +54,100 @@
       "DocumentGroups": [
         {
           "DockedHeight": 16,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "OperatorTests.cs",
+              "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\TestCalculator\\OperatorTests.cs",
+              "RelativeDocumentMoniker": "TestCalculator\\OperatorTests.cs",
+              "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\TestCalculator\\OperatorTests.cs",
+              "RelativeToolTip": "TestCalculator\\OperatorTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAhwBAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T12:29:39.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\TestCalculator\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "TestCalculator\\CalculatorTests.cs",
+              "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\TestCalculator\\CalculatorTests.cs",
+              "RelativeToolTip": "TestCalculator\\CalculatorTests.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAhwBIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T12:28:36.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\CalculatorConsole\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorConsole\\Program.cs",
+              "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\CalculatorConsole\\Program.cs",
+              "RelativeToolTip": "CalculatorConsole\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAywBQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T12:27:54.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Operators.cs",
+              "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\ConceptArchitect.Calculator.Extension\\Operators.cs",
+              "RelativeDocumentMoniker": "ConceptArchitect.Calculator.Extension\\Operators.cs",
+              "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\ConceptArchitect.Calculator.Extension\\Operators.cs",
+              "RelativeToolTip": "ConceptArchitect.Calculator.Extension\\Operators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T12:25:49.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OperatorAttribute.cs",
+              "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\ConceptArchitect.CalculatorAPI\\OperatorAttribute.cs",
+              "RelativeDocumentMoniker": "ConceptArchitect.CalculatorAPI\\OperatorAttribute.cs",
+              "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\ConceptArchitect.CalculatorAPI\\OperatorAttribute.cs",
+              "RelativeToolTip": "ConceptArchitect.CalculatorAPI\\OperatorAttribute.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAywBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T12:08:12.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\CalculatorDesktop\\Form1.cs",
               "RelativeDocumentMoniker": "CalculatorDesktop\\Form1.cs",
               "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\CalculatorDesktop\\Form1.cs",
               "RelativeToolTip": "CalculatorDesktop\\Form1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA4wBMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T11:24:55.466Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\CalculatorDesktop\\Form1.cs",
               "RelativeDocumentMoniker": "CalculatorDesktop\\Form1.cs",
               "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\CalculatorDesktop\\Form1.cs [Design]",
               "RelativeToolTip": "CalculatorDesktop\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T11:24:48.453Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-10-09T11:24:48.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "TestOperators.cs",
               "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\TestCalculator\\TestOperators.cs",
               "RelativeDocumentMoniker": "TestCalculator\\TestOperators.cs",
@@ -71,44 +155,43 @@
               "RelativeToolTip": "TestCalculator\\TestOperators.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T11:11:31.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-09T11:11:31.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CalculatorBuilderTests.cs",
               "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\TestCalculator\\CalculatorBuilderTests.cs",
               "RelativeDocumentMoniker": "TestCalculator\\CalculatorBuilderTests.cs",
               "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\TestCalculator\\CalculatorBuilderTests.cs",
               "RelativeToolTip": "TestCalculator\\CalculatorBuilderTests.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAADgvyoAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T10:59:21.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Calculator.cs",
               "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\ConceptArchitect.CalculatorAPI\\Calculator.cs",
               "RelativeDocumentMoniker": "ConceptArchitect.CalculatorAPI\\Calculator.cs",
               "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\ConceptArchitect.CalculatorAPI\\Calculator.cs",
               "RelativeToolTip": "ConceptArchitect.CalculatorAPI\\Calculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T10:56:54.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CalculatorBuilder.cs",
               "DocumentMoniker": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\ConceptArchitect.CalculatorAPI\\CalculatorBuilder.cs",
               "RelativeDocumentMoniker": "ConceptArchitect.CalculatorAPI\\CalculatorBuilder.cs",
               "ToolTip": "D:\\works\\corporate\\202510-lnw-chennai-api\\projects\\CalculatorPlaza\\ConceptArchitect.CalculatorAPI\\CalculatorBuilder.cs",
               "RelativeToolTip": "ConceptArchitect.CalculatorAPI\\CalculatorBuilder.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAA0wFUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAtwIMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T10:42:05.686Z",
               "EditorCaption": ""

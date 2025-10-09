@@ -16,7 +16,7 @@ namespace TestCalculator
         int op2 = 10;
         string validOperatorName = "plus";
         string invalidOperatorName = "foo";
-        Operator validOperator = Operators.Plus;
+        Operator validOperator = BasicOperators.Plus;
 
         [Fact]
         public void CalculatorPerformsCorrectCalculationForValidOperator()

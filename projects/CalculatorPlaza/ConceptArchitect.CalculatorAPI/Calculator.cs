@@ -12,6 +12,29 @@ namespace ConceptArchitect.CalculatorAPI
     }
 
 
+    public class BasicOperators
+    {
+        [Operator(Name="add", HelpText ="Adds two number", Aliases ="plus,sum")]
+        public static int Plus(int x, int y) 
+        { 
+            return x + y; 
+        }
+
+        [Operator(HelpText = "Substracts from first to second", Aliases = "sub,less")]
+        public static int Minus(int x, int y)
+        {
+            return x - y;
+        }
+
+        [Operator(Ignore =true)]
+        public static int ComplexTask(int a, int b)
+        {
+            return 0;
+        }
+
+    }
+
+
     public class Calculator
     {
         //public OutputFormat OutputFormat { get; set; }= OutputFormat.Infix;
@@ -32,8 +55,7 @@ namespace ConceptArchitect.CalculatorAPI
 
         public Calculator()
         {
-            AddOperator((x, y) => x + y, "plus");
-            AddOperator((x, y) => x - y, "minus");
+            
             ResultFormatter = (op1, name, op2, result) => $"{op1} {name} {op2} = {result}";
 
             ResultPresenter = Console.WriteLine;

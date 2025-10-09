@@ -1,4 +1,5 @@
 ﻿using ConceptArchitect.Calculator.Extension;
+using ConceptArchitect.CalculatorAPI;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,7 +14,7 @@ namespace TestCalculator
         [Fact]
         public void PlusOperatorWorksCorrectly()
         {
-            Assert.Equal(5, Operators.Plus(2, 3));
+            Assert.Equal(5, BasicOperators.Plus(2, 3));
         }
     }
 }
