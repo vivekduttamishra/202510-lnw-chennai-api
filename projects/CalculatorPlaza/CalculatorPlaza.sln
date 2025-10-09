@@ -1,13 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36327.8 d17.14
+VisualStudioVersion = 17.14.36327.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceptArchitect.CalculatorAPI", "ConceptArchitect.CalculatorAPI\ConceptArchitect.CalculatorAPI.csproj", "{974B7EC8-97A4-49CD-ADD7-B93C7E8B0715}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorConsole", "CalculatorConsole\CalculatorConsole.csproj", "{E46377BC-46BE-48E2-8CEA-0320EA7472F7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConceptArchitect.Calculator.Extension", "ConceptArchitect.Calculator.Extension\ConceptArchitect.Calculator.Extension.csproj", "{6D43D18C-98E8-4356-95C4-7067A3FAE6EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCalculator", "TestCalculator\TestCalculator.csproj", "{A13AF78C-363C-4123-83FC-79E3CE9F4569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorDesktop", "CalculatorDesktop\CalculatorDesktop.csproj", "{0F4609C7-9977-4C74-8A01-C637DCEDE999}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{6D43D18C-98E8-4356-95C4-7067A3FAE6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D43D18C-98E8-4356-95C4-7067A3FAE6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D43D18C-98E8-4356-95C4-7067A3FAE6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A13AF78C-363C-4123-83FC-79E3CE9F4569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13AF78C-363C-4123-83FC-79E3CE9F4569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13AF78C-363C-4123-83FC-79E3CE9F4569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13AF78C-363C-4123-83FC-79E3CE9F4569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4609C7-9977-4C74-8A01-C637DCEDE999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4609C7-9977-4C74-8A01-C637DCEDE999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4609C7-9977-4C74-8A01-C637DCEDE999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4609C7-9977-4C74-8A01-C637DCEDE999}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

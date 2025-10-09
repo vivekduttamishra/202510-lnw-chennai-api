@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CalculatorDesktop/1.0.0": {
+        "dependencies": {
+          "ConceptArchitect.CalculatorAPI": "1.0.0"
+        },
+        "runtime": {
+          "CalculatorDesktop.dll": {}
+        }
+      },
+      "ConceptArchitect.CalculatorAPI/1.0.0": {
+        "runtime": {
+          "ConceptArchitect.CalculatorAPI.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculatorDesktop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConceptArchitect.CalculatorAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

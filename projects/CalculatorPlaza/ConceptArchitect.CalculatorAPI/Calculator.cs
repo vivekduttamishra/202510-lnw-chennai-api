@@ -1,17 +1,34 @@
 ﻿using System.Numerics;
+using System.Text;
 
 namespace ConceptArchitect.CalculatorAPI
 {
+   public  class OperatorInfo
+    {
+        public string Name { get; set; }
+        public Operator Operator { get; set; }
+        public string Help { get; set; }
+        public string[] Aliases { get; set; }
+    }
+
+
     public class Calculator
     {
         //public OutputFormat OutputFormat { get; set; }= OutputFormat.Infix;
 
         public ResultFormatter ResultFormatter { get; set; }
-        Dictionary<string, Operator> operators=new Dictionary<string, Operator>() ;
+        Dictionary<string, OperatorInfo> operators=new Dictionary<string, OperatorInfo>() ;
 
         public Action<string> ResultPresenter { get; set; }
         public Action<string> ErrorPresenter { get; set; }
 
+        public IEnumerable<string> Operators
+        {
+            get
+            {
+                return operators.Keys;
+            }
+        }
 
         public Calculator()
         {
@@ -25,11 +42,45 @@ namespace ConceptArchitect.CalculatorAPI
         }
 
 
-
-
-        public void AddOperator(Operator _operator, string name = null)
+        public string GetHelp(string name)
         {
-            operators[name] = _operator;
+            var help = new StringBuilder(name);
+            var info = operators[name];
+            if (info == null)
+            {
+                return $"Invalid Operation: {name}";
+            }
+            else
+            {
+                help.AppendLine($"About: {name} ");
+                if(name!=info.Name)
+                    help.AppendLine($"Primary Name: {info.Name} ");
+                if(info.Aliases!=null && info.Aliases.Length > 0)
+                {
+                    help.Append("Aliases: ");
+                    foreach (var alias in info.Aliases)
+                        help.Append(alias + " ");
+                    help.AppendLine();
+                }
+                help.AppendLine($"{info.Help}");
+                return help.ToString();
+            }
+        }
+
+        public void AddOperator(Operator _operator, string name = null, string help="", string[] aliases = null)
+        {
+            var info= new OperatorInfo
+            {
+                Name = name,
+                Operator = _operator,
+                Help = help,
+                Aliases = aliases
+            };
+
+            operators[name]= info;
+            if(info.Aliases!=null )
+                foreach(var alias in info.Aliases )
+                    operators[alias]= info;
         }
 
 
@@ -38,12 +89,12 @@ namespace ConceptArchitect.CalculatorAPI
 
             int result = 0;
             if (operators.ContainsKey(operatorName))
-                result = operators[operatorName](op1, op2);
+                result = operators[operatorName].Operator(op1, op2);
 
             else
             {
                 //Console.WriteLine($"Invalid Operator:'{operatorName}'");
-                ErrorPresenter($"Invalid Operator:'{operatorName}");
+                ErrorPresenter($"Invalid Operator:'{operatorName}'");
                 return;
             }
 
